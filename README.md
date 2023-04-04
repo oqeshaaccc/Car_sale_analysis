@@ -14,6 +14,5 @@
   From the charts above, we can see that generally if the price of a car model is high then the sales will tend to be lower, although there are instances where this isn't true. To see why that would be the case requires some further analysis.
 
   - In the future if we were to continue analysis of this data further, a few things we could do are:
-
-      - Create visualizations for comparing Sales and Price for car Models of the other car Manufacturers
-      - Test which other variables have an effect on the price variable
+    - Create visualizations for comparing Sales and Price for car Models of the other car Manufacturers
+    - Test which other variables have an effect on the price variable
