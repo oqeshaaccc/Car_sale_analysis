@@ -16,3 +16,8 @@
   - In the future if we were to continue analysis of this data further, a few things we could do are:
     - Create visualizations for comparing Sales and Price for car Models of the other car Manufacturers
     - Test which other variables have an effect on the price variable
+ 
+  - Created a Waffle Chart to visualize the variable 'Vehicle_type'
+
+  - Generated a word cloud to display which Manufacturers occur most in our data
+    - Manufacturer is the only variable in our data that we could use to generate a word cloud since our data contains mostly only numerical values
